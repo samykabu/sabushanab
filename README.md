@@ -12,6 +12,6 @@ Hi there,
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/samykabu/"><img src="https://img.shields.io/badge/s.Abushanab?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/14105365/samy-k-abushanab"><img src="https://img.shields.io/badge/S.Abushanab?style=flat&logo=StackOverflow&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samykabu/"><img src="https://img.shields.io/badge/-Samy%20K%20Abushanab-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/14105365/samy-k-abushanab"><img src="https://img.shields.io/badge/-Samy%20K%20Abushanab-ef8236?style=flat&logo=StackOverflow&logoColor=white"/></a>
 </p>
